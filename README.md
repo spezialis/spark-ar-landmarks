@@ -16,5 +16,5 @@ To create the joints I used this image as reference.<br>
 Before importing the 3D rigged model to Spark AR is important to unparent all joints, and bind skin to multy-selected unparented joints.<br>
 <img src="https://github.com/spezialis/spark-ar-landmarks/blob/master/readme_images/Maya_unparent.png" width="200"> 
 
-Probably with a better paint weight job better resul can be achieved. The image shows how the simple faceMesh looks on Spark.<br>
+Probably with a better paint weight job better resul can be achieved. This image shows how the basic faceMesh from Sparks looks better than my pour rigging.<br>
 <img src="https://github.com/spezialis/spark-ar-landmarks/blob/master/readme_images/FaceMesh.png" width="200"> 
