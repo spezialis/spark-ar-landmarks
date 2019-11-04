@@ -1,6 +1,7 @@
 # spark-ar-landmarks
 This repository contains a Spark AR project with: 
 - a simple faceMesh with the [FaceMeshTrackers](https://developers.facebook.com/docs/ar-studio/before-you-start/basics/using-the-face-reference-assets#facetrackers) texture
+<img src="https://github.com/spezialis/spark-ar-landmarks/blob/master/readme_images/FaceMeshTrackers.png" width="100" height="100">
 ![FaceMeshTrackers](https://github.com/spezialis/spark-ar-landmarks/blob/master/readme_images/FaceMeshTrackers.png)
 
 - a patch that connect green planes to the landmarks positions
