@@ -1,5 +1,5 @@
 # spark-ar-landmarks
----------------------
+====================
 
 This repository contains a Spark AR project with: 
 - a simple faceMesh with the [FaceMeshTrackers](https://developers.facebook.com/docs/ar-studio/before-you-start/basics/using-the-face-reference-assets#facetrackers) texture.
